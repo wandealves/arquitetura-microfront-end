@@ -1,0 +1,8 @@
+.dashboard {
+  padding: 20px;
+}
+.chart-container {
+  width: 100%;
+  max-width: 600px;
+  margin-bottom: 20px;
+}
